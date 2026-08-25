@@ -1,11 +1,11 @@
 rgs = {
-  RG-1 = {
+  RG-SEEMA = {
     name       = "RG-SEEMA"
     location   = "Central India"
     managed_by = "terraform"
     }
-    RG-2 = {
-    name       = "RG-RAMU"
+    RG-1 = {
+    name       = "RG-SHAMU"
     location   = "Central India"
     managed_by = "terraform"
     }
