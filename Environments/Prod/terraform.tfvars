@@ -9,12 +9,12 @@ rgs = {
     location   = "Central India"
     managed_by = "terraform"
   }
+
   RG-2 = {
-    name = "RG-AJAD"
+    name = "RG-MAJNU"
     location = "Central India"
     managed_by = "terraform"
   }
-}
 str = {
   STR-1 = {
     name         = "seemastor"
