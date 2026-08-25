@@ -1,12 +1,22 @@
 rgs = {
-  RG-1 = {
+  RG-SEEMA = {
     name       = "RG-SEEMA"
     location   = "Central India"
     managed_by = "terraform"
-    
-    }
   }
-  str = {
+  RG-1 = {
+    name       = "RG-SHAMU"
+    location   = "Central India"
+    managed_by = "terraform"
+  }
+
+  RG-2 = {
+    name       = "RG-MAJNU"
+    location   = "Central India"
+    managed_by = "terraform"
+  }
+}
+str = {
   STR-1 = {
     name         = "seemastor"
     rg_name      = "RG-SEEMA"
@@ -15,6 +25,4 @@ rgs = {
     acc_rep_type = "GRS"
   }
 }
-
-
 
