@@ -20,6 +20,11 @@ rgs = {
     location   = "Central India"
     managed_by = "terraform"
   }
+  RG-4 = {
+    name       = "RG-CHAND"
+    location   = "Central India"
+    managed_by = "terraform"
+  }
 }
 str = {
   STR-1 = {
