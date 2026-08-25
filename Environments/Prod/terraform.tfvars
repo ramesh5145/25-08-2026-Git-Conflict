@@ -15,7 +15,7 @@ rgs = {
     managed_by = "terraform"
   }
   RG-3 = {
-    name       = "RG-TAKLA"
+    name       = "RG-TAKLA-NEW"
     location   = "Central India"
     managed_by = "terraform"
   }
