@@ -16,6 +16,24 @@ rgs = {
     location   = "Central India"
     managed_by = "terraform"
   } 
+  }
+  RG-3 = {
+    name       = "RG-TAKLA"
+    location   = "Central India"
+    managed_by = "terraform"
+  }
+  RG-6 = {
+    name       = "RG-TAKLU"
+  RG-4 = {
+    name       = "RG-CHAND"
+    location   = "Central India"
+    managed_by = "terraform"
+  }
+  RG-5 = {
+    name       = "RG-CHANDU"
+    location   = "Central India"
+    managed_by = "terraform"
+  }
 }
 str = {
   STR-1 = {
