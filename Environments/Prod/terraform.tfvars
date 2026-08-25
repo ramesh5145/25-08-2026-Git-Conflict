@@ -15,6 +15,7 @@ rgs = {
     location = "Central India"
     managed_by = "terraform"
   }
+}
 str = {
   STR-1 = {
     name         = "seemastor"
@@ -24,6 +25,4 @@ str = {
     acc_rep_type = "GRS"
   }
 }
-
-
 
