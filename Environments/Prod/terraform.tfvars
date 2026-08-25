@@ -10,10 +10,12 @@ rgs = {
     managed_by = "terraform"
   }
 
+# new rg hai
   RG-2 = {
     name       = "RG-MAJNU"
     location   = "Central India"
     managed_by = "terraform"
+  } 
   }
   RG-3 = {
     name       = "RG-TAKLA"
