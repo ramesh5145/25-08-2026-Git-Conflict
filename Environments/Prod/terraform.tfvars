@@ -11,8 +11,8 @@ rgs = {
   }
 
   RG-2 = {
-    name = "RG-MAJNU"
-    location = "Central India"
+    name       = "RG-MAJNU"
+    location   = "Central India"
     managed_by = "terraform"
   }
 }
